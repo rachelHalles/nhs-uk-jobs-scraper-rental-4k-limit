@@ -1,0 +1,7 @@
+{
+  "startUrl": "https://www.jobs.nhs.uk/candidate/search/results",
+  "maxPagesToScrape": 2,
+  "requestDelay": 2,
+  "outputFormat": "json",
+  "previousDataPath": "data/sample_output.json"
+}
