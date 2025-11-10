@@ -1,0 +1,5 @@
+{
+  "startUrl": "https://www.jobs.nhs.uk/candidate/search/results?keyword=nurse&location=london",
+  "maxPagesToScrape": 3,
+  "outputFormat": "csv"
+}
