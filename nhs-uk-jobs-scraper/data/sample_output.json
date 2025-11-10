@@ -1,0 +1,24 @@
+[
+  {
+    "jobTitle": "Nurse",
+    "salary": "£25,000 - £30,000 per year",
+    "location": "London, UK",
+    "qualifications": "Registered Nurse (RN), 2+ years experience",
+    "postingDate": "2023-10-01",
+    "closingDate": "2023-10-15",
+    "contactDetails": "hr@nhs.uk",
+    "documents": ["job-description.pdf"],
+    "apify_monitoring_status": "new"
+  },
+  {
+    "jobTitle": "Doctor",
+    "salary": "£50,000 - £60,000 per year",
+    "location": "Manchester, UK",
+    "qualifications": "Medical degree, 3+ years experience",
+    "postingDate": "2023-10-02",
+    "closingDate": "2023-10-16",
+    "contactDetails": "hr@nhs.uk",
+    "documents": ["job-description.pdf"],
+    "apify_monitoring_status": "delisted"
+  }
+]
